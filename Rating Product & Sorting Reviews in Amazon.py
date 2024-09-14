@@ -216,20 +216,3 @@ df['wilson_lower_bound'].dtypes
 # karşın daha çok beğenmeme aldığı için WLB skoru düşük olacaktır.Yani BARS, videonun popülerliğini gösterirken, WLB videonun kalitesini gösteriyor
 
 
-*************NOT DERS**********************
-
-#ortalama ve medyan degerleri birbinine yakınsa bu nrmallik varsayımını desteklemektedir.
-#S.S küçük mü büyük ü nereden anlayacagım noktası:s.s /ortalama sonucu  %30 un ALTINDA
-# KALIYORSA VERİ ORTADA TOOPLNAMISTIR, %30un ÜZERİNDEYSE DAGINIK denir. %50 ÜZERİNDEYSE COK DAGINIKTIR. DENİR VE AYKIRI DEGER VARDIR DENİLEBİLR.
-#varyans testi için homojeniğin sağlanmaması durumunda equaal _Varr false girilmesi aslında su demek:elmayla armutu kıyaslayamıyorum tat yönünden rtak bir özellikleri oamdıgı için
-#ancak kilo yönünden kıyaslyayabilirimo yönden kıyaslayalım demek
-#kontrol ve test  gurub için birinden biri normalliği sağlamayasaydı tttest yapılamazdı. bu yüzden a sonraki yöntemde manwhitneyuya geçilir ya da
-# normalliği sağalamayan veri mormale getirilmek üzere dönüştürülür.
-#mesela otomobil için iki ayrı subede ortlaamalar aynı olsa da  ss lar farklı yani bazı müşteirler cok memnun bazıları hiç değil burada müşteri menuniyetindeki düşüklük
-# müşteri temsilcisinin kötü olası sirkettte adamına göre davranılası gibi durumlar olabilir
-#
-
-
-##overallllar 1-5 arası olan skorları helpful yes ve noya cevirdik. olay iki çıktısı olan olasıklara döndü burada iki çıktısı olan olayı degil de  beş
-# ya da  daha fazla olan olayları deneseydik o  zaman da  bayesian kullanılırdı.WLB sağdan çarpık verilerden kullanılır (bence sol bak buna hata var)
-#
