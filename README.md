@@ -1,0 +1,1 @@
+This dataset containing Amazon product data includes product categories along with various metadata. The most reviewed product in the electronics category has user ratings and reviews. Twenty reviews to be displayed on the product detail page have been selected for the product.
